@@ -25,5 +25,5 @@ jobs:
         username: ${{ secrets.iquser }}
         password: ${{ secrets.iqpassword }}
         applicationId: ryan_webgoat__bcbarbosa
-        stage: stage-release
+        stage: release
         target: .
